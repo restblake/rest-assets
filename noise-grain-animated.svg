@@ -7,7 +7,7 @@
   </defs>
   <g>
     <animateTransform attributeName="transform" type="translate"
-      from="0 0" to="-260 -180" dur="42s" repeatCount="indefinite"/>
+      from="0 0" to="-260 -180" dur="180s" repeatCount="indefinite"/>
     <rect x="-300" y="-300" width="2600" height="2600" fill="url(#grain)"/>
   </g>
 </svg>
